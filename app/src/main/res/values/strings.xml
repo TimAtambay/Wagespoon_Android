@@ -1,0 +1,33 @@
+<resources>
+
+    //Application Strings
+    <string name="app_name">Wagespoon</string>
+    <string name="employeeButtonText">Login as an Employee</string>
+    <string name="employerButtonText">Login as an Employer</string>
+    <string name="app_font">proxima-nova-58e16cb321398</string>
+
+    //Applicant Info Strings
+    <string name="title_activity_applicant_info">ApplicantInfo</string>
+    <string name="title_applicantInfo">Applicant Info</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_payments">Payments</string>
+    <string name="title_settings">Settings</string>
+
+    //Validations Strings
+    <string name="username_validation">Please enter username.</string>
+    <string name="password_validation">Please enter passowrd.</string>
+    <string name="email_validation">Please enter a valid username.</string>
+    <string name="title_activity_applicant">Applicant</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_employee_main">EmployeeMainActivity</string>
+
+
+</resources>
